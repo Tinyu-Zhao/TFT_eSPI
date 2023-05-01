@@ -80,6 +80,10 @@
 
 // #define M5STACK
 
+// For M5Stack CoreS3, remove // in line below
+
+// #define M5CoreS3
+
 // For ST7789, ST7735, ILI9163 and GC9A01 ONLY, define the pixel width and height in portrait orientation
 // #define TFT_WIDTH  80
 // #define TFT_WIDTH  128
